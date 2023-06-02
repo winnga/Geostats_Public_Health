@@ -1,0 +1,14 @@
+
+ This data-set lists the monthly number of incident cases of malaria reported
+ at Kericho, Kenya, between January 1979 and October 2004. 
+
+ Named columns are:
+   Month: calendar month (text)
+    Year: calendar year 
+   Cases: number of cases
+
+ The data were provided to me by Israel Ukawuba (Columbia Uiversity). Note that a
+ complete analysis would require additional information, including population
+ denominators
+
+ 
